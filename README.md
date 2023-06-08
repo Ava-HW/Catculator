@@ -13,11 +13,7 @@ This project provides the user with three cat-related calculators, to figure out
 
 The user is presented with a menu showing the options for the different calculators. 
 
-=============== Select a Catculator! ===============
-= 1 - How big will my kitten get calculator        =
-= 2 - How old is my cat in human years calculator  =
-= 3 - Is my cat overweight calculator              =
-= Q - Quit                                         =
-================ ᨐᵉᵒʷ ᨐᵉᵒʷ ᨐᵉᵒʷ ᨐᵉᵒʷ ============
+![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/bcde1cf3-a86e-419c-9627-9b270579f19a)
+
 
 
