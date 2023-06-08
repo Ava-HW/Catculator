@@ -21,7 +21,9 @@ If a user inputs something not on the menu, the program will re-prompt them to s
 
 #### Calculator 1 - How big will my kitten get calculator
 
-This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input. If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
+This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input.
+
+If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
 
 
 
