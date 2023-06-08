@@ -69,7 +69,7 @@ def main():
                 else:
                     weight = int(age)
                     break
-            print(f"Your cat's bmi is {calculate_size(age, weight)[0]}. This means they are {calculate_size(age, weight)[0]}.")
+            print(f"Your kitten will grow to {calculate_size(weight)} kgs.")
         if choice == "2":
             while True:
                 age = input("How old is your cat? ").strip()
