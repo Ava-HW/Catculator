@@ -7,6 +7,8 @@ This project provides the user with three cat-related calculators, to figure out
 
 ### __Requirements__
 
+All requirements for this project are contained in requirements.txt- these can be installed by running ```pip install -r requirements.txt```.
+
 ### __Usage__
 
 #### Main Menu
