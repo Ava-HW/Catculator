@@ -15,5 +15,11 @@ The user is presented with a menu showing the options for the different calculat
 
 ![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/bcde1cf3-a86e-419c-9627-9b270579f19a)
 
+If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
+
+#### Calculator 1 - How big will my kitten get calculator
+
+This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input. If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
+
 
 
