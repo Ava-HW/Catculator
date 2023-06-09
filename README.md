@@ -43,7 +43,9 @@ This calculator takes one input from the user, their cat's age in years. The pro
 
 #### __Catculator 3- Is my cat overweight calculator__
 
-This calculator takes two inputs from the user- the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. If the user doesn't enter a valid input, the program will reprompt them. 
+This calculator takes two inputs from the user- the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. If the user doesn't enter a valid input, the program will reprompt them. 
+
+The program returns the cat's BMI, and if the user's cat is underweight, normal weight, overweight or obese. 
 
 ##### Example usage
 
