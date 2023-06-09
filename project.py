@@ -116,9 +116,9 @@ def main():
                 else:
                     leg= int(leg)
                     break
-                if quit == False:
-                    print(f"Your cat's BMI is {calculate_bmi(rib, leg)[0]}. This means that they are {calculate_bmi(rib, leg)[1]}.")
-                    break
+            if quit == False:
+                print(f"Your cat's BMI is {calculate_bmi(rib, leg)[0]}. This means that they are {calculate_bmi(rib, leg)[1]}.")
+                break
         if choice.upper().strip() == "Q":
             thanks()
             break
