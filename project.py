@@ -110,6 +110,7 @@ def main():
                     break
                 leg = input("What is the distance from your cat's back knee to their ankle? ").upper().replace("CM", "").strip()
                 if leg.upper()=="Q":
+                    quit = True
                     break
                 elif leg.isnumeric() == False:
                     print("Please enter a number! ")
