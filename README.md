@@ -11,9 +11,9 @@ All requirements for this project are contained in requirements.txt- these can b
 
 ### __Usage__
 
-Users can press Q to quit at anytime, including while using a calculator. Whitespace doesn't affect how the program processes input. 
+Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. 
 
-#### Main Menu
+#### __Main Menu__
 
 The user is presented with a menu showing the options for the different calculators. 
 
@@ -21,7 +21,7 @@ The user is presented with a menu showing the options for the different calculat
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
-#### Calculator 1 - How big will my kitten get calculator
+#### __Calculator 1 - How big will my kitten get calculator__
 
 This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input. 
 
@@ -33,7 +33,7 @@ If the given age in weeks is more than 32, the program will display a message sa
 
 ![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/4ecd9bba-5eb0-4e84-bb6d-5b0a5f981e56)
 
-#### Catculator 2- How old is my cat in human years?
+#### __Catculator 2- How old is my cat in human years?__
 
 This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. If the user doesn't enter an interger, the program will re-prompt them until they enter a valid input or quit. 
 
