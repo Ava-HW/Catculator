@@ -1,6 +1,6 @@
 def calculate_size(age, weight):
     if int(age) > 32:
-        return("Your cat is older than 32 weeks- that's when they become an adult!")
+        raise ValueError
     else:
         size = round((int(weight) / int(age) )*32, )
         return size
@@ -52,28 +52,43 @@ def thanks():
 def main():
     header()
     while True:
+        quit = False
         display_menu()
         choice = input("Choose a calculator: ").strip()
         if choice == "1":
             while True:
                 age = input("How old is your kitten in weeks? ").strip()
-                if age.isnumeric() == False:
-                    print("Please enter a number!")
+                if age.upper() =="Q":
+                    quit = True
+                    break
+                elif age.isnumeric() == False:
+                        print("Please enter a number!")
+                elif int(age) > 32:
+                        print("Your cat is older than 32 weeks- that's when they become an adult! Press Q to exit")
+                        quit = True
                 else:
                     age = int(age)
                     break
             while True:
+                if quit == True:
+                    break
                 weight = input("How much does your kitten weigh in kgs? ").strip()
-                if weight.isnumeric()== False:
+                if weight.upper()== "Q":
+                    quit = True
+                    break
+                elif weight.isnumeric()== False:
                     print("Please enter a number!")
                 else:
                     weight = int(age)
                     break
-            print(f"Your kitten will grow to {calculate_size(weight)} kgs.")
+                if quit == False:
+                    print(f"Your kitten will grow to {calculate_size(age, weight)} kgs.")
         if choice == "2":
             while True:
                 age = input("How old is your cat? ").strip()
-                if age.isnumeric == False:
+                if age.upper()=="Q":
+                    break
+                elif age.isnumeric == False:
                     print("Please enter a number!")
                 else:
                     age= int(age)
@@ -81,24 +96,33 @@ def main():
                     break
         if choice == "3":
             while True:
-                rib = input("What is the circumfrence of your cat's rib cage? ").strip()
+                rib = input("What is the circumfrence of your cat's rib cage in cm? ").upper().replace("CM", "").strip()
+                if rib.upper()=="Q":
+                    quit = True
+                    break
                 if rib.isnumeric()==False:
                     print("Please enter a number!")
                 else:
                     rib= int(rib)
                     break
             while True:
-                leg = input("What is the distance from your cat's back knee to their ankle? ").strip()
-                if leg.isnumeric() == False:
+                if quit == True:
+                    break
+                leg = input("What is the distance from your cat's back knee to their ankle? ").upper().replace("CM", "").strip()
+                if leg.upper()=="Q":
+                    break
+                elif leg.isnumeric() == False:
                     print("Please enter a number! ")
                 else:
                     leg= int(leg)
                     break
-            print(f"Your cat's BMI is {calculate_bmi(rib, leg)[0]}. This means that they are {calculate_bmi(rib, leg)[1]}.")
+                if quit == False:
+                    print(f"Your cat's BMI is {calculate_bmi(rib, leg)[0]}. This means that they are {calculate_bmi(rib, leg)[1]}.")
+                    break
         if choice.upper().strip() == "Q":
             thanks()
             break
-        if input("Press enter to continue: ").upper == "Q":
+        if input("Press enter to continue or Q to quit: ").upper().strip() == "Q":
             thanks()
             break
 
