@@ -8,9 +8,9 @@ def test_age():
     assert calculate_age(3)==20
 
 def test_size():
-    assert calculate_size(3, 16)==6
-    assert calculate_size(5, 32)==5
-    assert calculate_size(2, 10)==6.4
+    assert calculate_size(16, 3)==6
+    assert calculate_size(32, 5)==5
+    assert calculate_size(10, 2)==6.4
 
 def test_bmi():
     assert calculate_bmi(50, 30)==[14.56, "underweight"]
