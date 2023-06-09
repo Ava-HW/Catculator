@@ -1,22 +1,22 @@
 def calculate_size(age, weight):
-    if int(age) > 32:
+    if age > 32:
         raise ValueError
     else:
-        size = round((int(weight) / int(age) )*32, )
+        size = round((weight/age)*32, 2)
         return size
 
 
 
 def calculate_age(age):
-    if int(age) <= 6:
-            return int((int(age)*19) / 3  + 1)
-    if int(age) > 6:
-            return int((int(age)-6)*4 + 40)
+    if age <= 6:
+            return (age*19) / 3  + 1
+    if age > 6:
+            return (age-6)*4 + 40
 
 
 
 def calculate_bmi(rib, leg):
-    bmi = (int(rib) / 0.7062 - int(leg)) /0.9156 - int(leg)
+    bmi = (rib / 0.7062 - leg) /0.9156 - leg
     bmi = round(bmi, 2)
     if bmi < 15:
         message = "underweight"
@@ -79,10 +79,10 @@ def main():
                 elif weight.isnumeric()== False:
                     print("Please enter a number!")
                 else:
-                    weight = int(age)
+                    weight = int(weight)
                     break
-                if quit == False:
-                    print(f"Your kitten will grow to {calculate_size(age, weight)} kgs.")
+            if quit == False:
+                print(f"Your kitten will grow to {calculate_size(age, weight)} kgs.")
         if choice == "2":
             while True:
                 age = input("How old is your cat? ").strip()
