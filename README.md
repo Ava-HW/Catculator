@@ -17,7 +17,7 @@ Users can press Q to quit at anytime, including while using a calculator. If the
 
 The user is presented with a menu showing the options for the different calculators. 
 
-![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/bcde1cf3-a86e-419c-9627-9b270579f19a)
+![Catculator main menu](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/bcde1cf3-a86e-419c-9627-9b270579f19a)
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
@@ -27,9 +27,11 @@ This calculator takes two inputs from the user, how old their kitten is in weeks
 
 If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
 
-![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ebd610d5-99d6-41e1-93a8-a4fa45e071f8)
+![Message saying that the user's cat is an adult](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ebd610d5-99d6-41e1-93a8-a4fa45e071f8)
 
 ##### Example usage
+
+![Example of calculator 1](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/35bcb8ce-e44e-4a15-9588-45ea70d59ee7)
 
 
 
