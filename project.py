@@ -11,7 +11,7 @@ def calculate_age(age):
     if age <= 6:
             return (age*19) / 3  + 1
     if age > 6:
-            return (age-6)*4 + 40
+            return round((age-6)*4 + 40)
 
 
 
