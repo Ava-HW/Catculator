@@ -2,7 +2,7 @@ def calculate_size(age, weight):
     if age > 32:
         raise ValueError
     else:
-        size = round((weight/age)*32, 2)
+        size = int(round((weight/age)*32, 2))
         return size
 
 
