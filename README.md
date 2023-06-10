@@ -51,7 +51,15 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 ![Example of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/350bf287-0764-4276-a7ee-ceedb7d77ec5)
 
-#### ___Q - Quit___
+#### __Q - Quit__
+
+If the user inputs Q when presented with the main menu, the program will exit and display a thank you message. 
+
+![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/514f0d73-ee38-4691-81fe-4b633f3fcd6b)
+
+If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
+
+
 
 
 
