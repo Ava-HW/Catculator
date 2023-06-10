@@ -59,8 +59,11 @@ If the user inputs Q when presented with the main menu, the program will exit an
 
 If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
 
+### __Acknowledgements__
 
-
+Formula for How big will my kitten get calculator: [Calculator on Omnicalculator](https://www.omnicalculator.com/biology/how-big-will-my-cat-get)
+Formula for How old is my cat in human years calculator: [Calculator on Omnicalculator](https://www.omnicalculator.com/biology/cat-age)
+Formula for Is my cat overweight calculator: [Calculator on Omnicalculator](https://www.omnicalculator.com/biology/cat-bmi)
 
 
 
