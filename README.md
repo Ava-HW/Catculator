@@ -15,7 +15,7 @@ Users can press Q to quit at anytime, including while using a calculator. If the
 
 [Main menu](#main-menu)   
 [1 - How big will my kitten get?](#size)     
-[2 - How old is my cat in human years?](#2---How-old-is-my-cat-in-human-years?)    
+[2 - How old is my cat in human years?](#years)    
 [3 - Is my cat overweight?](#3-Is-my-cat-overweight?)    
 [Q - Quit](#q---quit)    
 
@@ -43,8 +43,8 @@ If the given age in weeks is more than 32, the program will display a message sa
 
 ![image of calculator 1 usage](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/cfe77183-f335-4d57-b110-12f2c6ef16c6)
 
-
-#### __2 - How old is my cat in human years?__
+<a name="years"></a>
+##2. How old is my cat in human years?
 
 This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. 
 
