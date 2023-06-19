@@ -13,7 +13,11 @@ All requirements for this project are contained in requirements.txt- these can b
 
 Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
 
-[go to main menu section](#main-menu)
+[Main menu](#main-menu)
+[1 - How big will my kitten get?](#how-big-will-my-kitten-get?)
+[2 - How old is my cat in human years?](#how-old-is-my-cat-in-human-years?)
+[3 - Is my cat overweight?](#is-my-cat-overweight?)
+[Q - Quit](#q---quit)
 
 #### __Main Menu__
 
