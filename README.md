@@ -14,7 +14,7 @@ All requirements for this project are contained in requirements.txt- these can b
 Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
 
 [Main menu](#main-menu)   
-[1 - How big will my kitten get?](#1---)     
+[1 - How big will my kitten get?](#h)     
 [2 - How old is my cat in human years?](#2---how-old-is-my-cat-in-human-years?)    
 [3 - Is my cat overweight?](#3-is-my-cat-overweight?)    
 [Q - Quit](#q---quit)    
@@ -27,7 +27,7 @@ The user is presented with a menu showing the options for the different calculat
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
-#### __1 - __
+#### h
 
 This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input or select Q to quit. 
 
