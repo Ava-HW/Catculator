@@ -31,12 +31,12 @@ If the given age in weeks is more than 32, the program will display a message sa
 
 ##### Example usage
 
-![Example of calculator 1](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/35bcb8ce-e44e-4a15-9588-45ea70d59ee7)
+![image of calculator 1 usage](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/cfe77183-f335-4d57-b110-12f2c6ef16c6)
+
 
 #### __2 - How old is my cat in human years?__
 
-This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. If the user doesn't enter an interger, the program will re-prompt them until they enter a valid input or quit. 
-
+This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. 
 ##### Example usage
 
 ![Example of calculator 2](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/8d0b174e-2148-4a31-ad11-e77d036fa0d4)
