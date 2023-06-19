@@ -13,6 +13,8 @@ All requirements for this project are contained in requirements.txt- these can b
 
 Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
 
+[go to main menu section](#main-menu)
+
 #### __Main Menu__
 
 The user is presented with a menu showing the options for the different calculators. 
