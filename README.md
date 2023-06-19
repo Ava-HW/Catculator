@@ -11,13 +11,13 @@ All requirements for this project are contained in requirements.txt- these can b
 
 ### __Usage__
 
-Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. 
+Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
 
 #### __Main Menu__
 
 The user is presented with a menu showing the options for the different calculators. 
 
-![Catculator main menu](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/bcde1cf3-a86e-419c-9627-9b270579f19a)
+![image of the menu](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/31404501-b53b-462f-85cd-0f3a8902baac)
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
