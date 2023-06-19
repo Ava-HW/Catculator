@@ -21,7 +21,7 @@ The user is presented with a menu showing the options for the different calculat
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
-#### __Calculator 1 - How big will my kitten get calculator__
+#### __1 - How big will my kitten get?__
 
 This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input or select Q to quit. 
 
@@ -33,7 +33,7 @@ If the given age in weeks is more than 32, the program will display a message sa
 
 ![Example of calculator 1](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/35bcb8ce-e44e-4a15-9588-45ea70d59ee7)
 
-#### __Calculator 2 - How old is my cat in human years calculator__
+#### __2 - How old is my cat in human years?__
 
 This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. If the user doesn't enter an interger, the program will re-prompt them until they enter a valid input or quit. 
 
@@ -41,7 +41,7 @@ This calculator takes one input from the user, their cat's age in years. The pro
 
 ![Example of calculator 2](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/8d0b174e-2148-4a31-ad11-e77d036fa0d4)
 
-#### __Calculator 3 - Is my cat overweight calculator__
+#### __3 - Is my cat overweight?__
 
 This calculator takes two inputs from the user- the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. If the user doesn't enter a valid input, the program will reprompt them. 
 
