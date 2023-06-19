@@ -27,7 +27,7 @@ The user is presented with a menu showing the options for the different calculat
 
 If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
 
-#### 1 How big will my kitten get
+#### 1 - How big will my kitten get
 
 This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input or select Q to quit. 
 
