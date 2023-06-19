@@ -16,7 +16,7 @@ Users can press Q to quit at anytime, including while using a calculator. If the
 [Main menu](#main-menu)   
 [1 - How big will my kitten get?](#1---how-big-will-my-kitten-get?)     
 [2 - How old is my cat in human years?](#2---how-old-is-my-cat-in-human-years?)    
-[3 - Is my cat overweight?](#3---is-my-cat-overweight?)    
+[3 - Is my cat overweight?](#3-is-my-cat-overweight?)    
 [Q - Quit](#q---quit)    
 
 #### __Main Menu__
