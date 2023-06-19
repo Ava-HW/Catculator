@@ -50,7 +50,7 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 ##### Example usage
 
-![Example of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/350bf287-0764-4276-a7ee-ceedb7d77ec5)
+![image of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/7a29eda0-03d7-4cdc-a551-37e34951d308)
 
 #### __Q - Quit__
 
