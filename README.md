@@ -10,7 +10,8 @@ This project provides three cat-related calculators:
 * [Feline like making a grand escape? ](#quit)  
 * [Calculator 1: How big will my kitten get?](#size)     
 * [Calculator 2: How old is my cat in human years?](#years)    
-* [Calculator 3: Is my cat overweight?](#weight)    
+* [Calculator 3: Is my cat overweight?](#weight)
+* [Installation](#requirements)   
 * [Acknowledgements](#thanks)
 
 <a name="main-menu"></a>
@@ -75,7 +76,7 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 
 
-
+<a name="requirements"></a>
 ## __Installation__
 
 Install with pip:
