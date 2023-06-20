@@ -1,15 +1,15 @@
 # Catculator
 ### Video Demo: 
 
-### __Description__
+## __Description__
 
 This project provides the user with three cat-related calculators, to figure out a cat's BMI, what a cat's age in human years is, and how big a kitten will get. 
 
-### __Requirements__
+## __Requirements__
 
 All requirements for this project are contained in requirements.txt- these can be installed by running ```pip install -r requirements.txt```.
 
-### __Usage__
+## __Usage__
 
 Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
 
