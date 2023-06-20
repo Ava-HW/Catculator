@@ -5,12 +5,12 @@
 
 This project provides three cat-related calculators:
  
-[1. Main menu](#main-menu)  
-[2. Preventing cat-a-strophic cacluations](#errors)  
-[3. Feline like making a grand escape? ](#quit)  
-[4. Calculator 1: How big will my kitten get?](#size)     
-[5. Calculator 2: How old is my cat in human years?](#years)    
-[6. Calculator 3: Is my cat overweight?](#weight)    
+*[Main menu](#main-menu)  
+*[Preventing cat-a-strophic cacluations](#errors)  
+[Feline like making a grand escape? ](#quit)  
+[Calculator 1: How big will my kitten get?](#size)     
+[Calculator 2: How old is my cat in human years?](#years)    
+[Calculator 3: Is my cat overweight?](#weight)    
 [Q - Quit](#quit)    
 [Adknowledgements](#thanks)
 
