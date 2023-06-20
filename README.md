@@ -7,9 +7,13 @@ This project provides three cat-related calculators:
 1. How big will my kitten get?
 2. How old is my cat in human years?
 3. Is my cat overweight?
+
+
  
-[1. Main menu](#main-menu)   
-[1 - How big will my kitten get?](#size)     
+[1. Main menu](#main-menu)  
+[2. Preventing cat-a-strophic cacluations](#errors)  
+[3. Feline like making a grand escape? ](#quit)  
+[2. How big will my kitten get?](#size)     
 [2 - How old is my cat in human years?](#years)    
 [3 - Is my cat overweight?](#weight)    
 [Q - Quit](#quit)    
@@ -22,9 +26,19 @@ The user is presented with a menu showing the options for the different calculat
 
 ![image of the menu](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/31404501-b53b-462f-85cd-0f3a8902baac)
 
-If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit.
-## Preventing cat-a-strophic cacluations
-Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
+If a user inputs something not on the menu, the program will re-prompt them to select a calculator. 
+
+<a name="errors"></a>
+## __2. Preventing cat-a-strophic cacluations__
+The calculators are designed to give you a purrfect results every time. This is achieved by: 
+* using [xxxxx] so whitespace doesn't affect how the program processes input
+* ensuring calculations only proceed if a user enteres apositive whole numbers. If any other kinds of input is entered, the program prompts the use to try again [in accordance with loop].  
+
+<a name="quit"></a>
+## __3. Feline like making a grand escape?__
+If the user inputs Q while using a calculator, the program will return to the main menu.
+
+ Users can press Q to quit at anytime, including while using a calculator.
 
 
 
