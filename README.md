@@ -4,18 +4,13 @@
 ## __Welcome to Catculator!__
 
 This project provides three cat-related calculators:
-1. How big will my kitten get?
-2. How old is my cat in human years?
-3. Is my cat overweight?
-
-
  
 [1. Main menu](#main-menu)  
 [2. Preventing cat-a-strophic cacluations](#errors)  
 [3. Feline like making a grand escape? ](#quit)  
-[2. How big will my kitten get?](#size)     
-[2 - How old is my cat in human years?](#years)    
-[3 - Is my cat overweight?](#weight)    
+[4. Calculator 1: How big will my kitten get?](#size)     
+[5. Calculator 2: How old is my cat in human years?](#years)    
+[6. Calculator 3: Is my cat overweight?](#weight)    
 [Q - Quit](#quit)    
 [Adknowledgements](#thanks)
 
@@ -41,13 +36,8 @@ If the user inputs Q while using a calculator, the program will return to the ma
  Users can press Q to quit at anytime, including while using a calculator.
 
 
-
-
-
- 
-
 <a name="size"></a>
-## 1. How big will my kitten get?
+## 4. Calculator 1: How big will my kitten get?
 
 This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. If the user inputs something that is not an interger, the program will re-prompt them until they enter a valid input or select Q to quit. 
 
