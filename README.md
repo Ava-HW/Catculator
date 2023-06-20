@@ -1,39 +1,36 @@
 # Catculator
 ### Video Demo: 
 
-## __Description__
+## __Welcome to Catculator!__
 
 This project provides three cat-related calculators:
 1. How big will my kitten get?
 2. How old is my cat in human years?
 3. Is my cat overweight?
  
-
-## __Requirements__
-
-All requirements for this project are contained in requirements.txt- these can be installed by running ```pip install -r requirements.txt```.
-
-## __Usage__
-
-Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
-
-[Main menu](#main-menu)   
+[1. Main menu](#main-menu)   
 [1 - How big will my kitten get?](#size)     
 [2 - How old is my cat in human years?](#years)    
 [3 - Is my cat overweight?](#weight)    
 [Q - Quit](#quit)    
 [Adknowledgements](#thanks)
 
-
-
 <a name="main-menu"></a>
-## __Main Menu__
+## __1. Main Menu__
 
 The user is presented with a menu showing the options for the different calculators. 
 
 ![image of the menu](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/31404501-b53b-462f-85cd-0f3a8902baac)
 
-If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit. 
+If a user inputs something not on the menu, the program will re-prompt them to select a calculator. If a user inputs Q, the program will exit.
+## Preventing cat-a-strophic cacluations
+Users can press Q to quit at anytime, including while using a calculator. If the user inputs Q while using a calculator, the program will return to the main menu. Whitespace doesn't affect how the program processes input. All calculators only accept positive whole numbers, reprompting the user if they enter a negative number or a decimal. 
+
+
+
+
+
+ 
 
 <a name="size"></a>
 ## 1. How big will my kitten get?
@@ -76,6 +73,14 @@ If the user inputs Q when presented with the main menu, the program will exit an
 ![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/514f0d73-ee38-4691-81fe-4b633f3fcd6b)
 
 If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
+
+
+
+## __Installation__
+
+Install with pip:
+
+$ pip install -r requirements.txt
 
 <a name="thanks"></a>
 ## __Acknowledgements__
