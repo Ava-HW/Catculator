@@ -30,7 +30,7 @@ The calculators are designed to give you a purrfect results every time. This is 
 
 <a name="quit"></a>
 ## __3. Feline like making a grand escape?__
-If a user inputs 'Q' while using a calculator, the program will return to the main menu.
+If a user inputs 'Q' while using a calculator, the program will invite them to press 'enter' to return to the main menu or 'Q' to quit the program. Is the return to the main menu.
 
 If the user inputs 'Q' when presented with the main menu, the program will exit and display a thank you message. 
 
