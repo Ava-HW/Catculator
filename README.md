@@ -16,8 +16,9 @@ Users can press Q to quit at anytime, including while using a calculator. If the
 [Main menu](#main-menu)   
 [1 - How big will my kitten get?](#size)     
 [2 - How old is my cat in human years?](#years)    
-[3 - Is my cat overweight?](#3-Is-my-cat-overweight?)    
-[Q - Quit](#q---quit)    
+[3 - Is my cat overweight?](#weight)    
+[Q - Quit](#quit)    
+[Adknowledgements](#thanks)
 
 
 
@@ -44,25 +45,27 @@ If the given age in weeks is more than 32, the program will display a message sa
 ![image of calculator 1 usage](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/cfe77183-f335-4d57-b110-12f2c6ef16c6)
 
 <a name="years"></a>
-##2. How old is my cat in human years?
+## 2. How old is my cat in human years?
 
 This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. 
 
-##### Example usage
+#### Example usage
 
 ![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/4ac2b414-cb21-438e-8f93-701b521ac1ba)
 
-#### __3 - Is my cat overweight?__
+<a name="weight"></a>
+## 3. Is my cat overweight?
 
 This calculator takes two inputs from the user- the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. If the user doesn't enter a valid input, the program will reprompt them. 
 
 The program returns the cat's BMI, and if the user's cat is underweight, normal weight, overweight or obese. 
 
-##### Example usage
+#### Example usage
 
 ![image of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/7a29eda0-03d7-4cdc-a551-37e34951d308)
 
-#### __Q - Quit__
+<a name="quit"></a>
+## __Q - Quit__
 
 If the user inputs Q when presented with the main menu, the program will exit and display a thank you message. 
 
@@ -70,7 +73,8 @@ If the user inputs Q when presented with the main menu, the program will exit an
 
 If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
 
-### __Acknowledgements__
+<a name="thanks"></a>
+## __Acknowledgements__
 
 Formula for How big will my kitten get calculator: [Calculator on Omnicalculator](https://www.omnicalculator.com/biology/how-big-will-my-cat-get)
 
