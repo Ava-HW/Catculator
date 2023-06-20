@@ -3,7 +3,7 @@
 
 ## __Welcome to Catculator!__
 
-This project provides three cat-related calculators:
+This project provides three cat-related calculators.
  
 * [Main menu](#main-menu)  
 * [Preventing cat-a-strophic cacluations](#errors)  
@@ -27,7 +27,7 @@ If a user inputs something not on the menu, the program will prompt them again.
 ## __2. Preventing cat-a-strophic cacluations__
 The calculators are designed to give you a purrfect results every time. This is achieved by: 
 * using .strip() so whitespace doesn't affect how the program processes input
-* ensuring calculations only proceed if a user enters a positive whole number. If any other kind of input is entered, the program prompts the use to try again [in accordance with loop].  
+* ensuring calculations only proceed if a user enters a positive whole number. If any other kind of input is entered, the program prompts the user to try again and displays a message.  
 
 <a name="quit"></a>
 ## __3. Feline like making a grand escape?__
@@ -47,7 +47,7 @@ If the given age in weeks is more than 32, the program will display a message sa
 
 ![Message saying that the user's cat is an adult](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ebd610d5-99d6-41e1-93a8-a4fa45e071f8)
 
-##### Example usage
+#### Example usage
 
 ![image of calculator 1 usage](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/cfe77183-f335-4d57-b110-12f2c6ef16c6)
 
@@ -63,7 +63,7 @@ This calculator takes one input from the user, their cat's age in years. The pro
 <a name="weight"></a>
 ## 3. Is my cat overweight?
 
-This calculator takes two inputs from the user: the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. If the user doesn't enter a valid input, the program will prompt them again. 
+This calculator takes two inputs from the user: the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. 
 
 The program returns the cat's BMI, and if the user's cat is underweight, normal weight, overweight or obese. 
 
