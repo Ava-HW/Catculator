@@ -5,8 +5,8 @@
 
 This project provides three cat-related calculators:
  
-*[Main menu](#main-menu)  
-*[Preventing cat-a-strophic cacluations](#errors)  
+* [Main menu](#main-menu)  
+* [Preventing cat-a-strophic cacluations](#errors)  
 [Feline like making a grand escape? ](#quit)  
 [Calculator 1: How big will my kitten get?](#size)     
 [Calculator 2: How old is my cat in human years?](#years)    
