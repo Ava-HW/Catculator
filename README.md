@@ -11,7 +11,7 @@ This project provides three cat-related calculators:
 * [Calculator 1: How big will my kitten get?](#size)     
 * [Calculator 2: How old is my cat in human years?](#years)    
 * [Calculator 3: Is my cat overweight?](#weight)    
-* [Adknowledgements](#thanks)
+* [Acknowledgements](#thanks)
 
 <a name="main-menu"></a>
 ## __1. Main Menu__
@@ -30,10 +30,13 @@ The calculators are designed to give you a purrfect results every time. This is 
 
 <a name="quit"></a>
 ## __3. Feline like making a grand escape?__
-If the user inputs Q while using a calculator, the program will return to the main menu.
+If a user inputs 'Q' while using a calculator, the program will return to the main menu.
 
- Users can press Q to quit at anytime, including while using a calculator.
+If the user inputs 'Q' when presented with the main menu, the program will exit and display a thank you message. 
 
+![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/514f0d73-ee38-4691-81fe-4b633f3fcd6b)
+
+If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
 
 <a name="size"></a>
 ## 4. Calculator 1: How big will my kitten get?
@@ -68,14 +71,8 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 ![image of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/7a29eda0-03d7-4cdc-a551-37e34951d308)
 
-<a name="quit"></a>
-## __Q - Quit__
+<
 
-If the user inputs Q when presented with the main menu, the program will exit and display a thank you message. 
-
-![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/514f0d73-ee38-4691-81fe-4b633f3fcd6b)
-
-If a user inputs Q while using a calculator, the program will display the option to quit completely or continue by pressing enter. If the user enters neither Q nor enter, the program will return to the main menu anyway. 
 
 
 
