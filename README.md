@@ -26,7 +26,7 @@ If a user inputs something not on the menu, the program will prompt them again.
 <a name="errors"></a>
 ## __2. Preventing cat-a-strophic cacluations__
 The calculators are designed to give you a purrfect results every time. This is achieved by: 
-* using .strip() so whitespace doesn't affect how the program processes input
+* using strip() so whitespace doesn't affect how the program processes input
 * ensuring calculations only proceed if a user enters a positive whole number. If any other kind of input is entered, the program prompts the user to try again and displays a message.  
 
 <a name="quit"></a>
