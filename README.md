@@ -6,7 +6,7 @@
 This project provides three cat-related calculators.
  
 * [Main menu](#main-menu)  
-* [Preventing cat-a-strophic cacluations](#errors)  
+* [Preventing cat-a-strophic calculations](#errors)  
 * [Feline like making a grand escape? ](#quit)  
 * [Calculator 1: How big will my kitten get?](#size)     
 * [Calculator 2: How old is my cat in human years?](#years)    
@@ -24,7 +24,7 @@ The user is presented with a menu showing the options for the different calculat
 If a user inputs something not on the menu, the program will prompt them again. 
 
 <a name="errors"></a>
-## __2. Preventing cat-a-strophic cacluations__
+## __2. Preventing cat-a-strophic calculations__
 The calculators are designed to give you a purrfect results every time. This is achieved by: 
 * using strip() so whitespace doesn't affect how the program processes input
 * ensuring calculations only proceed if a user enters a positive whole number. If any other kind of input is entered, the program prompts the user to try again and displays a message.  
