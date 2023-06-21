@@ -45,11 +45,11 @@ This calculator takes two inputs from the user, how old their kitten is in weeks
 
 If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
 
-![Message saying that the user's cat is an adult](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ebd610d5-99d6-41e1-93a8-a4fa45e071f8)
+**add image**
 
 #### Example usage
 
-![image of calculator 1 usage](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/cfe77183-f335-4d57-b110-12f2c6ef16c6)
+**add image**
 
 <a name="years"></a>
 ## 2. How old is my cat in human years?
@@ -58,7 +58,7 @@ This calculator takes one input from the user, their cat's age in years. The pro
 
 #### Example usage
 
-![image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/4ac2b414-cb21-438e-8f93-701b521ac1ba)
+**add image**
 
 <a name="weight"></a>
 ## 3. Is my cat overweight?
@@ -69,7 +69,7 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 #### Example usage
 
-![image of calculator 3](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/7a29eda0-03d7-4cdc-a551-37e34951d308)
+**add image**
 
 <a name="requirements"></a>
 ## __Installation__
