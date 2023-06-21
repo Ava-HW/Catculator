@@ -41,15 +41,15 @@ If the user inputs 'Q' when presented with the main menu, the program will exit 
 <a name="size"></a>
 ## 4. Calculator 1: How big will my kitten get?
 
-This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in kgs. 
+This calculator takes two inputs from the user, how old their kitten is in weeks, and how much their kitten weighs in grams. 
 
 If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
 
-![too old image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/8394e604-2daa-45f1-a858-372e2791d14c)
+![adult cat message](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/8394e604-2daa-45f1-a858-372e2791d14c)
 
 #### Example usage
 
-**add image**
+![size example](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/6800bf92-cf5e-4104-818c-600a3977e60b)
 
 <a name="years"></a>
 ## 2. How old is my cat in human years?
@@ -58,7 +58,7 @@ This calculator takes one input from the user, their cat's age in years. The pro
 
 #### Example usage
 
-**add image**
+![age example](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ef763a99-4138-4563-9800-e00e688937e1)
 
 <a name="weight"></a>
 ## 3. Is my cat overweight?
@@ -69,7 +69,7 @@ The program returns the cat's BMI, and if the user's cat is underweight, normal 
 
 #### Example usage
 
-**add image**
+![bmi example](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/7667c92a-e56a-4555-87cf-a3657a452d80)
 
 <a name="requirements"></a>
 ## __Installation__
