@@ -45,7 +45,7 @@ This calculator takes two inputs from the user, how old their kitten is in weeks
 
 If the given age in weeks is more than 32, the program will display a message saying that their cat is now an adult. 
 
-**add image**
+![too old image](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/8394e604-2daa-45f1-a858-372e2791d14c)
 
 #### Example usage
 
