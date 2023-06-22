@@ -52,7 +52,7 @@ If the given age in weeks is more than 32, the program will display a message sa
 ![size example](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/6800bf92-cf5e-4104-818c-600a3977e60b)
 
 <a name="years"></a>
-## 2. How old is my cat in human years?
+## 5. Calculator 2: How old is my cat in human years?
 
 This calculator takes one input from the user, their cat's age in years. The program will output how old their cat is in human years. 
 
@@ -61,7 +61,7 @@ This calculator takes one input from the user, their cat's age in years. The pro
 ![age example](https://github.com/Ava-HW/CS50p-final-project/assets/126925721/ef763a99-4138-4563-9800-e00e688937e1)
 
 <a name="weight"></a>
-## 3. Is my cat overweight?
+## 6. Calculator 3: Is my cat overweight?
 
 This calculator takes two inputs from the user: the circumfrence of their cat's ribcage in cm, and the distance from their cat's back knee to their ankle in cm. The program will accept input if the user adds "cm" or " cm" onto the end of their input. 
 
