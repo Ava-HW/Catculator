@@ -81,7 +81,7 @@ $ pip install -r requirements.txt
 <a name="thanks"></a>
 ## __Acknowledgements__
 
-All of the formulas used in this program were sourced from Omnicalcualtor
+All of the formulas used in this program were sourced from Omnicalcalculator
 
 Formula for How big will my kitten get calculator: [Calculator on Omnicalculator](https://www.omnicalculator.com/biology/how-big-will-my-cat-get)
 
